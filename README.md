@@ -1,2 +1,2 @@
-# CUSTOMER-SEGMENTATION-ANALYSIS-
+# Fake news detection 
 AI LAB PROJECT
